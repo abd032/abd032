@@ -22,7 +22,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python
-- 🌐 &nbsp; React | Redux | Material UI | Bootstrap | Ant Design | HTML | CSS | 
+- 🌐 &nbsp; React | Redux | Angular | Material UI | Bootstrap | Ant Design | HTML | CSS | 
 - 🛢 &nbsp; MySQL | MSSQL 
 - 🔧 &nbsp; Git  | Postman
 - ✍️ &nbsp; Visual studio code | VisualStudio 2019
