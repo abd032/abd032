@@ -34,8 +34,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 
-<a href="https://github.com/abd032"  style="margin-right: 20px; text-decoration:none;"
-  <img alt="kirankumar Gonti's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
+<a href="https://github.com/abd032"  style="margin-right: 20px; text-decoration:none;">
+  <img alt="Bhartendu Singh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
