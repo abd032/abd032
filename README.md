@@ -12,7 +12,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💻&nbsp; 6 months experienced React, Angular with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
+- 💻&nbsp; 2 years experienced Angular with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated in Computer Science and Engineering at Guru Nanak Institute of Technology, Hyderabad.
@@ -22,7 +22,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python
-- 🌐 &nbsp; React | Redux | Angular | Material UI | Bootstrap | Ant Design | HTML | CSS | 
+- 🌐 &nbsp;  Angular | Material UI | Bootstrap | Ant Design | HTML | CSS | 
 - 🛢 &nbsp; MySQL | MSSQL 
 - 🔧 &nbsp; Git  | Postman
 - ✍️ &nbsp; Visual studio code | VisualStudio 2019
